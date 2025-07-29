@@ -1,4 +1,4 @@
-# 🚀 Rocketseat Challenges - JavaScript
+# 🚀 Rocketseat Intensivão - JavaScript
 
 Este repositório reúne os desafios práticos realizados durante o curso **Full Stack** da [Rocketseat](https://rocketseat.com.br/), utilizando **JavaScript** puro, HTML e CSS. Os projetos têm como objetivo consolidar conhecimentos em lógica de programação, manipulação do DOM e criação de interfaces web.
 
