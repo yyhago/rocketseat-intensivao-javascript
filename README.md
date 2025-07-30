@@ -18,6 +18,10 @@ Aplicação para calcular o Índice de Massa Corporal (IMC) a partir do peso e a
 - 📊 Exibição do resultado do IMC
 
 ### 3. Jogo da Adivinhação
+
+![Screan01](./assets/image1.png)
+![Screan02](./assets/image2.png)
+
 Um jogo simples onde o usuário deve adivinhar um número aleatório até acertar.
 
 - 🎲 Geração de número aleatório
