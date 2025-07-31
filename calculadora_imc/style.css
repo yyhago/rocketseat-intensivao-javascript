@@ -12,10 +12,6 @@ body, html {
     height: 100%;
 }
 
-
-
-
-
 main{
     display: flex;
     height: 100vh;
@@ -24,6 +20,8 @@ main{
     justify-content: center;
     align-items: center;
 }
+
+
 
 
 
@@ -39,6 +37,22 @@ main{
     margin: 0 auto;
 }
 
+.boxContainerModal {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #fff;
+    border-radius: 15px;
+    width: 20%;
+    height: 16%;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    z-index: 1000; 
+    box-shadow: 0 0 20px rgba(0,0,0,0.2);
+}
+
 .content{
     padding: 60px;
 }
@@ -50,12 +64,24 @@ main{
 
 .inputSubmit{
     padding-left: 0px;
+    cursor: pointer;
 }
 
-h1{
+
+
+
+
+
+
+h1,h3{
     font-size: 26px;
     font-weight: 500;
     color: #010D26;
+}
+
+h3{
+    text-align: center;
+    padding-top: 20px
 }
 
 input{
@@ -67,4 +93,15 @@ input{
     border-color: #010D26;
 
     padding-left: 20px;
+}
+
+span{
+    font-size: 20px;
+    padding-right: 10px;
+
+    display: flex;
+    text-align: end;
+    justify-content: end;
+    align-items: end;
+    cursor: pointer;
 }
