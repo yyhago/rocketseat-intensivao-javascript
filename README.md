@@ -4,14 +4,7 @@ Este repositório reúne os desafios práticos realizados durante o curso **Full
 
 ## Desafios
 
-### 1. Focus Timer
-Um cronômetro estilo Pomodoro para ajudar na produtividade, com modos claro e escuro, controle de tempo e sons de ambiente.
-
-- ⏱️ Timer personalizável
-- 🌗 Suporte a dark/light mode
-- 🔊 Controle de sons
-
-### 2. Calculadora de IMC
+### 1. Calculadora de IMC
 Aplicação para calcular o Índice de Massa Corporal (IMC) a partir do peso e altura informados pelo usuário.
 
 ![Screan01](./assets/image3.png)
@@ -19,7 +12,7 @@ Aplicação para calcular o Índice de Massa Corporal (IMC) a partir do peso e a
 - 📏 Entrada de peso (kg) e altura (cm)
 - 📊 Exibição do resultado do IMC
 
-### 3. Jogo da Adivinhação
+### 2. Jogo da Adivinhação
 
 ![Screan01](./assets/image1.png)
 ![Screan02](./assets/image2.png)
