@@ -14,6 +14,8 @@ Um cronômetro estilo Pomodoro para ajudar na produtividade, com modos claro e e
 ### 2. Calculadora de IMC
 Aplicação para calcular o Índice de Massa Corporal (IMC) a partir do peso e altura informados pelo usuário.
 
+![Screan01](./assets/image3.png)
+
 - 📏 Entrada de peso (kg) e altura (cm)
 - 📊 Exibição do resultado do IMC
 
